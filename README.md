@@ -63,7 +63,7 @@
   <a href="https://github.com/abhishekjadhav07">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjadhav07&theme=github_dark&hide_langs_below=0&hide_border=true" />
   </a>
-  <img align="right" height="195px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="250"/>
+<!--   <img align="right" height="195px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="250"/> -->
 </div>
 
 ---
