@@ -14,15 +14,15 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=prajyotzankar&label=Profile%20views&color=0e75b6&style=flat" alt="prajyotzankar" />  -->
+<a href="mailto:jadhavabhishek1911@gmail.com" html target="_blank" rel="noopener noreferrer"> 
+  <img src="https://img.shields.io/badge/Gmail-Email-d14836?style=flat&logo=gmail" alt="abhishekjadhav" />
 
 <a href="https://www.linkedin.com/in/abhishekjadhav7/" html target="_blank" rel="noopener noreferrer"> 
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0179b6?style=flat&logo=linkedin" alt="abhishekjadhav" /> 
 
 <a href="https://leetcode.com/watch_Me/" html target="_blank" rel="noopener noreferrer"> 
-  <img src="https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=flat&logo=leetcode" alt="abhishekjadhav" />
+<!--   <img src="https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=flat&logo=leetcode" alt="abhishekjadhav" /> -->
 
-<a href="mailto:jadhavabhishek1911@gmail.com" html target="_blank" rel="noopener noreferrer"> 
-  <img src="https://img.shields.io/badge/Gmail-Email-d14836?style=flat&logo=gmail" alt="abhishekjadhav" />
 
 </p>
 
