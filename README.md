@@ -54,15 +54,16 @@
 <br>
   
  ---
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"/>
+
   
-<div align="left" style="display:flex">  
-<!--   <a href="https://github.com/abhishekjadhav07">
+<div style="display:flex">  
+  <a href="https://github.com/abhishekjadhav07">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjadhav07&show_icons=true&hide_border=true&theme=github_dark"/> 
-  </a> -->
+  </a>
   <a href="https://github.com/abhishekjadhav07">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjadhav07&theme=github_dark&hide_langs_below=0&hide_border=true" />
   </a>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"/>
 </div>
 
 ---
