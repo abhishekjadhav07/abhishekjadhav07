@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Jadhav
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek Jadhav
 =======================================================================================================================================
 
 Technology Enthusiast | Developer
 ---------------------------------
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [jadhavabhishek1911@gmail.com](mailto:jadhavabhishek1911@gmail.com)
 
 ### Skills
