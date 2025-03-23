@@ -5,7 +5,7 @@ Technology Enthusiast | Developer
 ---------------------------------
 
 * ✉️  You can contact me at [jadhavabhishek1911@gmail.com](mailto:jadhavabhishek1911@gmail.com)
-* 🌱 I’m currently learning Spring Boot
+* 🌱 I’m currently exploring data engineering tools and technologies
 
 ### Skills
 
